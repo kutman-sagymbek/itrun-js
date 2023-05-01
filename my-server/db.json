@@ -1,0 +1,20 @@
+{
+  "movies": [
+    { "id": 1, "name": "Джон Уик 4", "genre": "боевик", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/5ec7dbd7-1cab-4eae-8846-8be00c56dc0a/600x900"},
+    { "id": 2, "name": "Блуждающая Земля","genre": "фантастика", "rating": 1000, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8dab304f-4113-4de4-a04b-4158410bf2a9/600x900"},
+    { "id": 3, "name": "Моё прекрасное несчастье","genre": "мелодрама", "rating": 900, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/f8f8f832-545d-4b17-90aa-89bbb367c329/600x900"},
+    { "id": 4, "name": "Паранормальные явления. Отель призраков","genre": "ужасы", "rating": 1100, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/4c6c4ec5-a37f-4ac5-9b91-c3812828b10e/600x900"},
+    { "id": 5, "name": "Джон Уик 4", "genre": "боевик", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/5ec7dbd7-1cab-4eae-8846-8be00c56dc0a/600x900"},
+    { "id": 6, "name": "Блуждающая Земля","genre": "фантастика", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8dab304f-4113-4de4-a04b-4158410bf2a9/600x900"},
+    { "id": 7, "name": "Моё прекрасное несчастье","genre": "мелодрама", "rating": 500, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/f8f8f832-545d-4b17-90aa-89bbb367c329/600x900"},
+    { "id": 8, "name": "Паранормальные явления. Отель призраков","genre": "ужасы", "rating": 700, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/4c6c4ec5-a37f-4ac5-9b91-c3812828b10e/600x900"},
+    { "id": 9, "name": "Черный лотос", "genre": "боевик", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/5ec7dbd7-1cab-4eae-8846-8be00c56dc0a/600x900"},
+    { "id": 10, "name": "Приключения аргонавтов","genre": "мультфильм", "rating": 600, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/3a0e9cb9-8c57-41b3-880b-f36e347c2321/600x900"},
+    { "id": 11, "name": "Моё прекрасное несчастье","genre": "мелодрама", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/f8f8f832-545d-4b17-90aa-89bbb367c329/600x900"},
+    { "id": 12, "name": "Паранормальные явления. Отель призраков","genre": "ужасы", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/4c6c4ec5-a37f-4ac5-9b91-c3812828b10e/600x900"},
+    { "id": 13, "name": "Гремлины: Хранители леса", "genre": "ужасы", "rating": 1100, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/958c8d54-76e5-412a-a483-c1b9e7b8757b/600x900"},
+    { "id": 14, "name": "Легионы тьмы","genre": "ужасы", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/712cba2e-19bb-488c-91ea-a581795a846d/600x900"},
+    { "id": 15, "name": "Профессор и призрачный убийца","genre": "мелодрама", "rating": 1200, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/c0216376-2eb4-41df-92b9-34bf7fd474d3/600x900"},
+    { "id": 16, "name": "Не слышу зла ","genre": "триллер", "rating": 750, "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/dbbc2a84-4b6b-40b0-9e71-a9f966708859/600x900"}
+  ]
+}
